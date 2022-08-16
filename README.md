@@ -1,1 +1,4 @@
-# tuotantoymp-rist-osa-1
+-navbar
+-etusivu
+-linkit
+-kuvat
